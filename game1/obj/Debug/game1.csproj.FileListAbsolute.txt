@@ -1,0 +1,10 @@
+D:\ngongocthanhdo_2122110444\game1\game1\bin\Debug\game1.exe.config
+D:\ngongocthanhdo_2122110444\game1\game1\bin\Debug\game1.exe
+D:\ngongocthanhdo_2122110444\game1\game1\bin\Debug\game1.pdb
+D:\ngongocthanhdo_2122110444\game1\game1\obj\Debug\game1.csproj.AssemblyReference.cache
+D:\ngongocthanhdo_2122110444\game1\game1\obj\Debug\game1.Form1.resources
+D:\ngongocthanhdo_2122110444\game1\game1\obj\Debug\game1.Properties.Resources.resources
+D:\ngongocthanhdo_2122110444\game1\game1\obj\Debug\game1.csproj.GenerateResource.cache
+D:\ngongocthanhdo_2122110444\game1\game1\obj\Debug\game1.csproj.CoreCompileInputs.cache
+D:\ngongocthanhdo_2122110444\game1\game1\obj\Debug\game1.exe
+D:\ngongocthanhdo_2122110444\game1\game1\obj\Debug\game1.pdb
